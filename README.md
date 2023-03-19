@@ -29,7 +29,7 @@ Controllers - São as classes responsáveis por tratar as interações do usuár
 
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/rodrigojfagundes/TESTE--deletar/main/Sessao_22_imagem_1.jpg" />
+<img src="https://raw.githubusercontent.com/rodrigojfagundes/imagens_para_readme/main/Sessao_22_imagem_1.jpg" />
 </div>
 
 
